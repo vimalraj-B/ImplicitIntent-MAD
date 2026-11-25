@@ -133,10 +133,10 @@ activity_main.xml
 <img width="1582" height="1017" alt="Screenshot 2026-11-25 195751" src="https://github.com/user-attachments/assets/aaaeda43-af4c-4f75-9b95-8e2252e3c1ef" />
 
 
-<img width="462" height="888" alt="Screenshot 2026-11-25 195804" src="https://github.com/user-attachments/assets/1a4fd787-a23f-49b9-a51c-1cf9d14e979e" />
-<img width="431" height="887" alt="Screenshot 2026-11-25 200002" src="https://github.com/user-attachments/assets/87fa521c-6936-4b78-b9d1-2e6dbb2fa3f2" />
+<br><img width="462" height="888" alt="Screenshot 2026-11-25 195804" src="https://github.com/user-attachments/assets/1a4fd787-a23f-49b9-a51c-1cf9d14e979e" /></br>
+<br><img width="431" height="887" alt="Screenshot 2026-11-25 200002" src="https://github.com/user-attachments/assets/87fa521c-6936-4b78-b9d1-2e6dbb2fa3f2" /></br>
 
-<img width="421" height="881" alt="Screenshot 2026-11-25 200456" src="https://github.com/user-attachments/assets/733639c5-b6fd-4579-818f-c82cd6b77a8e" />
+<br><img width="421" height="881" alt="Screenshot 2026-11-25 200456" src="https://github.com/user-attachments/assets/733639c5-b6fd-4579-818f-c82cd6b77a8e" /></br>
 
 ## RESULT
 Thus a Simple Android Application create a navigate button using Implicit Intent to display the gmail page using Android Studio is developed and executed successfully.
